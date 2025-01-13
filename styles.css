@@ -1,0 +1,11 @@
+  .main-box{
+    border: 2px solid black;
+   border-radius: 20px;
+    background-color: black;
+  
+} 
+
+.btn{ 
+    width: 55px;
+    margin-right: 3px;
+}
